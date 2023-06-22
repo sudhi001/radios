@@ -127,13 +127,13 @@
         },
         {
           "id": 84,
-          "imageUrl": "https://ik.imagekit.io/drob7isfw/logo/malayalam/radio/tv/manoramanews.webp",
+          "imageUrl": "https://ik.imagekit.io/drob7isfw/logo/malayalam/radio/manoramanews.webp",
           "name": "Manorama News",
           "urlOne": "https://mmtvlive1.akamaized.net/out/v1/b07e2eca22624651960999f9ac2f4b7d/index_1.m3u8"
         },
         {
           "id": 84,
-          "imageUrl": "https://ik.imagekit.io/drob7isfw/logo/malayalam/radio/tv/mathrubhuminews.webp",
+          "imageUrl": "https://ik.imagekit.io/drob7isfw/logo/malayalam/radio/mathrubhuminews.webp",
           "name": "Mathrubhumi News",
           "urlOne": "https://vidgyormedia.pc.cdn.bitgravity.com/mathrubhumi-origin/liveabr/playlist_dvr.m3u8"
         },
