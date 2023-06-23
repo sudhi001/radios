@@ -145,7 +145,7 @@
         },
         {
           "id": 3,
-          "imageUrl": "http://hindiradioapp.com/images/marinamangofm.webp",
+          "imageUrl": "https://ik.imagekit.io/drob7isfw/logo/malayalam/radio/marinamangofm.webp",
           "name": "Marina Mango",
           "urlOne": "https://stream.marinafm.com/proxy/marinamango/marinamango"
         },
@@ -163,7 +163,7 @@
         },
         {
           "id": 3,
-          "imageUrl": "http://hindiradioapp.com/images/360radionew.webp",
+          "imageUrl": "https://ik.imagekit.io/drob7isfw/logo/malayalam/radio/360radionew.webp",
           "name": "360 Radio",
           "urlOne": "http://listen.radioking.com/radio/493456/stream/550438"
         },
@@ -451,7 +451,7 @@
         },
         {
           "id": 16,
-          "imageUrl": "http://hindiradioapp.com/images/gyanvani.webp",
+          "imageUrl": "https://ik.imagekit.io/drob7isfw/logo/malayalam/radio/gyanvani.webp",
           "name": "Gyan Vani",
           "urlOne": "http://stream.ignouonline.ac.in:1935/Gyan/Gyandhara/playlist.m3u8"
         },
@@ -493,7 +493,7 @@
         },
         {
           "id": 100,
-          "imageUrl": "http://hindiradioapp.com/images/aicte.webp",
+          "imageUrl": "https://ik.imagekit.io/drob7isfw/logo/malayalam/radio/aicte.webp",
           "name": "AICTE Radio",
           "urlOne": "http://broadcast.campusradio.rocks/index.php/stream?id=7"
         },
@@ -622,7 +622,7 @@
         },
         {
           "id": 10,
-          "imageUrl": "http://hindiradioapp.com/images/airnew.webp",
+          "imageUrl": "https://ik.imagekit.io/drob7isfw/logo/malayalam/radio/airnew.webp",
           "name": "Port Blair",
           "urlOne": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio038/playlist.m3u8"
         },
@@ -1913,7 +1913,7 @@
         },
         {
           "id": 47,
-          "imageUrl": "http://hindiradioapp.com/images/omshivmal.webp",
+          "imageUrl": "https://ik.imagekit.io/drob7isfw/logo/malayalam/radio/omshivmal.webp",
           "name": "Adishaktinet Music",
           "urlOne": "http://68.183.132.63:8010/stream"
         },
